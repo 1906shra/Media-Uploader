@@ -1,0 +1,10 @@
+{
+  "/api/video-upload/route": "app/api/video-upload/route.js",
+  "/api/videos/route": "app/api/videos/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/(auth)/sign-in/[[...sign-in]]/page": "app/(auth)/sign-in/[[...sign-in]]/page.js",
+  "/page": "app/page.js",
+  "/(app)/home/page": "app/(app)/home/page.js",
+  "/(app)/social-share/page": "app/(app)/social-share/page.js",
+  "/(app)/video-upload/page": "app/(app)/video-upload/page.js"
+}
